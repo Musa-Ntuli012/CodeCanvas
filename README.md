@@ -46,7 +46,7 @@ A beautiful, responsive portfolio website built with React and Tailwind CSS, fea
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/codecanvas.git
+git clone https://github.com/Musa-Ntuli012/CodeCanvas.git
 cd codecanvas
 ```
 
